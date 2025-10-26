@@ -3,7 +3,7 @@ Profile joueur Trylian / Oizo / Emperor
 Portrait de Trylian : un grinder légendaire des scènes compétitives FR
 Trylian est un joueur francophone, passé maître dans l’art du PvP et des arena FPS, avec un parcours qui s’étend des MMORPG old-school aux shooters rapides (AFPS). Discret mais redouté, il incarne le grind pur et le teamplay clutch, influençant encore aujourd’hui les communautés underground.
 Débuts casual (2001-2004)
-Entre 2001 et 2004, Trylian découvre ses premières arènes sur PC. Ses premiers jeux en ligne sont des mods issus d’Half-Life 1 sous le moteur GoldSource comme Counter-Strike bêta 6.5 ou Day of Defeat, où il se familiarise avec le tir tactique et le mode VIP. Rapidement, il explore d’autres classiques de l’époque : Age of Empires 1 & 2, Warcraft 3 et Quake 3 (versions CPMA et VQ3) 
+Entre 2001 et 2004, Trylian découvre ses premières arènes sur PC. Ses premiers jeux en ligne sont des mods issus d’Half-Life 1 sous le moteur GoldSource comme Counter-Strike bêta 6.5 ou Day of Defeat, où il se familiarise avec le genre FPS. Rapidement, il explore d’autres classiques de l’époque : Age of Empires 1 & 2, Warcraft 3 et Quake 3 (versions CPMA et VQ3) 
 Débuts en WoW Vanilla : pilier PvP d’Exode
 Dès les origines de World of Warcraft (2004-2006), Trylian s’impose comme un fer de lance d’Exode, la guilde Alliance d’élite menée par Llewellys sur le serveur Archimonde.
 Il incarne un druide, où il excelle dans les battlegrounds comme Warsong Gulch (en tant que flag carrier) ou le Bassin d'Arathi.
