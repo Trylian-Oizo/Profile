@@ -17,15 +17,17 @@ Classement PvP serveur Archimonde 2006
 
 MMO : un parcours à travers les mondes persistants
 Avant de se tourner vers les FPS compétitifs, Trylian laisse sa trace sur plusieurs MMORPG majeurs :
-•	WoW Vanilla – Exode
-•	WoW Burning Crusade – aAa (against All authority)
-•	Age of Conan – Brutality
-•	Warhammer Online – Brutality
-•	Aion – Exode
-•	WoW Cataclysm – War Legend
-•	Star Wars: The Old Republic – Caernsidhe
-•	Tera Online – Caernsidhe
-•	Guild Wars 2 – War Legend
+
+WoW Vanilla – Exode
+WoW Burning Crusade – aAa (against All authority)
+Age of Conan – Brutality
+Warhammer Online – Brutality
+Aion – Exode
+WoW Cataclysm – War Legend
+Star Wars: The Old Republic – Caernsidhe
+Tera Online – Caernsidhe
+Guild Wars 2 – War Legend
+
 Ce parcours fait de lui un véritable vétéran du MMO compétitif, habitué aux sieges, aux arenas interserveurs et au world pvp, d’une époque où la performance se mesurait en grind, en coordination et en endurance.
 Ascension sur les FPS : de WoW à Warsow, puis Overwatch
 Après ces années de MMO hardcore, Trylian migre vers les arena FPS pour retrouver le rush compétitif.
